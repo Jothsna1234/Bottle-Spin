@@ -17,7 +17,7 @@ Spice up your party games with the Bottle Spinning App! 🎉 Spin the virtual bo
 
 ## 🛠️ Getting Started
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/bottle-spinning-app.git`
+1. **Start Android Studio**
 2. **Open in Android Studio**: Launch Android Studio and open the project.
 3. **Build and Run**: Build the project and run it on an emulator or physical device.
 4. **Spin Away!**: Tap the "Spin" button to start the spinning animation.
